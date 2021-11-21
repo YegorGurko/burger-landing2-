@@ -1,0 +1,37 @@
+.container .top-bar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+.container .top-bar img{
+    width: 100px;
+    height: 100px;
+}
+.container button{
+    height: 49px;
+    width: 165px;
+    background-color: #F6762C;
+    border-radius: 5px;
+}
+.container{
+    background-size: cover;
+    background-image: url(./IGrzIxlfue\ 1.png);
+    height: 1000px;
+}
+.container .top-bar .menu a{
+    text-decoration: none;
+   color: #c4c4c4;
+   margin: 14px;
+   text-transform: uppercase;
+}
+.container button span{
+    text-transform: uppercase;
+    color: #fff;
+}
+.banner{
+    color: #fff;
+    margin-left: 230px;
+    margin-top: 221px;
+    width: 465px;
+}
