@@ -1,0 +1,15 @@
+.burgers{
+  background-color: #312F30;
+  display: flex;  
+  justify-content: center;
+
+}
+.burgers .block {
+    margin: 31px;
+    text-align: center;
+    justify-content: space-between;
+    background-color:grey;
+    border-radius: 10px;
+}
+
+
